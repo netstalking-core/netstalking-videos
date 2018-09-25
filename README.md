@@ -1,4 +1,4 @@
-# netstalking-videos
+# Нетсталкинг: обучающие видео и тематические лекции
 ## Основы
 
 [Что такое нетсталкинг](https://www.youtube.com/watch?v=YKByhdv01Oo)
